@@ -1,0 +1,11 @@
+1) domain name (url) - godaddy
+
+2) hosting: github
+
+3) design (html, css)
+
+Github password account: Jehovah2018
+
+Changes to make
+
+1) email on button click
