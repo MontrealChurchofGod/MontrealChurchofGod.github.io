@@ -8,4 +8,12 @@ Github password account: Jehovah2018
 
 Changes to make
 
-1) email on button click
+a) email on button click
+
+b) search results; good, spiritual, penticostal, christian, baptist church near me; montreal
+
+c) bold fonts
+
+d) youtube link layout
+
+e) can't commit multiple files
