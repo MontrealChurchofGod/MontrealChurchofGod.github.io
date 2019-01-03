@@ -10,10 +10,12 @@ Changes to make
 
 a) email on button click
 
-b) search results; good, spiritual, penticostal, christian, baptist church near me; montreal
+b) search results; good, spiritual, penticostal, christian, addiction, baptist church near me; montreal;
 
 c) bold fonts
 
 d) youtube link layout
 
 e) can't commit multiple files
+
+f) how much google search costs
