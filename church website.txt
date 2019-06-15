@@ -20,6 +20,8 @@ e) can't commit multiple files
 
 f) how much google search costs
 
+g) Add site logo
+
 
 
 --------------------------------------
